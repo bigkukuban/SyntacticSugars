@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="MyRessource.cs" />
     <Compile Include="MyYieldedRessource.cs" />
+    <Compile Include="MyYieldedRessourceDecomp.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

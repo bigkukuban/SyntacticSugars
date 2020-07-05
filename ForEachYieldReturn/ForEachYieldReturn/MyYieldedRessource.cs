@@ -6,7 +6,7 @@ namespace ForEachYieldReturn
 
     class MyYieldedRessource
     {
-        public static IEnumerator<int> GetMyItems(bool withError)
+        public static IEnumerable<int> GetMyItems(bool withError)
         {
             yield return 1;
             yield return 2;
